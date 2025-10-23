@@ -34,7 +34,7 @@ It turned out to be a great way to connect hardware and software while practicin
 - **MPU_pitch_roll_Pyt_comm.ino**  
   The Arduino sketch created with the Arduino IDE.  
   It reads acceleration data from the MPU6050, calculates **pitch** and **roll** angles, and sends them via **serial communication**.  
-  Credits for this code go to **Carbon Aeronautics** — I recommend watching their tutorial to better understand it:  
+  Credits for this code go to **Carbon Aeronautics**, I recommend watching their tutorial to better understand it:  
   [https://youtu.be/7VW_XVbtu9k?si=yDsCyBnuSdUbkwY7](https://youtu.be/7VW_XVbtu9k?si=yDsCyBnuSdUbkwY7)
 
 ---
@@ -47,7 +47,7 @@ It turned out to be a great way to connect hardware and software while practicin
 
 - Although a **heading indicator** is included in the Tkinter GUI, it is **not used** in the live plotting script, since a **magnetometer** would be required to measure heading in real time.
 
-- Some comments in the code may still be in Italian (I’m Italian!) — I might have forgotten to translate all of them 😅
+- Some comments in the code may still be in Italian (I’m Italian!), I might have forgotten to translate all of them 😅
 
 ---
 
