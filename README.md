@@ -34,7 +34,7 @@ It turned out to be a great way to connect hardware and software while practicin
 - **MPU_pitch_roll_Pyt_comm.ino**  
   The Arduino sketch created with the Arduino IDE.  
   It reads acceleration data from the MPU6050, calculates **pitch** and **roll** angles, and sends them via **serial communication**.  
-  Credits for this code go to **Carbon Aeronautics**, I recommend watching their tutorial to better understand it:  
+  Credits for the code in this file go to **Carbon Aeronautics**, I recommend watching their tutorial to better understand it:  
   [https://youtu.be/7VW_XVbtu9k?si=yDsCyBnuSdUbkwY7](https://youtu.be/7VW_XVbtu9k?si=yDsCyBnuSdUbkwY7)
 
 ---
