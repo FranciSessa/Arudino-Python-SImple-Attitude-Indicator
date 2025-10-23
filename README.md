@@ -16,7 +16,7 @@ It turned out to be a great way to connect hardware and software while practicin
 
 🎥 **Video demo:** [YouTube](https://youtube.com/shorts/nl1kET7p0yA?si=YtbqkHNL75Do1jj0)
 
-![My setup](docs/screen.png)
+![My setup](screen.png)
 
 ---
 
